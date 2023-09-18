@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+Hello from Main
+=======
+Hello from branch
+
+Hello from Main and Hello from branch
+Hiiiiiiii
+>>>>>>> conflict
